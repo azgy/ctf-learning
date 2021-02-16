@@ -11,7 +11,7 @@ services:
       sspanel_url: "http://mikukabe.aimiku.cyou"
       key: "MizuMiku"
       docker: "true"
-      speedtest: 6
+      speedtest: 0
       node_id: 10
       api_port: 2333
       downWithPanel: 1
