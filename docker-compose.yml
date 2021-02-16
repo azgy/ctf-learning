@@ -8,8 +8,8 @@ services:
     extra_hosts:
       auth.rico93.com: 127.0.0.1
     environment:
-      sspanel_url: "http://mikukabe.aimiku.cyou"
-      key: "MizuMiku"
+      sspanel_url: "1234"
+      key: "1234"
       docker: "true"
       speedtest: 0
       node_id: 10
